@@ -25,7 +25,7 @@ A simple and interactive Todo application built using React.js. This project enh
 
 ## 👩‍💻 Developer
 
-**Rosan Fara Mazwin**
+**Rosan Fara Mazwin M**
 
 - GitHub: [RosanFaraMazwinM](https://github.com/RosanFaraMazwinM)
 
