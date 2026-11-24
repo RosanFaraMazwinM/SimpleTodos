@@ -1,0 +1,16 @@
+.todo-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.button {
+  background-color: #ffffff;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 10px;
+  width: 100px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
